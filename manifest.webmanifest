@@ -1,0 +1,22 @@
+{
+    "name": "Oliver Swindles",
+    "short_name": "Oliver Swindles",
+    "theme_color": "#141818",
+    "background_color": "#141818",
+    "display": "standalone",
+    "start_url": "https://www.oliverswindles.com",
+    "icons": [
+        {
+            "src": "https://www.oliverswindles.com/logo512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "https://www.oliverswindles.com/maskable512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
